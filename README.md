@@ -18,6 +18,10 @@
       * pip3 install . --user
    5. Download example code and images
       * git clone https://github.com/vmjersey/unet_example.git
+
+
+## Run U-Net Example
+   1. Run U-Net
       * cd unet_example
       * python3 ./Unet-Clouds.py
 
