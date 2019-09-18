@@ -3,10 +3,8 @@
 ## Dependencies
 
    1.  Install OpenCV:
-      * Fedora:
-         * sudo dnf install python3-opencv.x86_64 opencv-core.x86_64 opencv.x86_64
-      * Ubuntu:
-         * sudo apt install python3-opencv
+         * Fedora:   sudo dnf install python3-opencv.x86_64 opencv-core.x86_64 opencv.x86_64
+         * Ubuntu:   sudo apt install python3-opencv
    2. Install Tensorflow and Keras
       * pip3 install tensorflow-gpu --user
       * pip3 install keras --user 
